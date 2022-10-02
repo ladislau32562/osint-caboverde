@@ -1,3 +1,9 @@
+<p align="center">
+<img src=https://user-images.githubusercontent.com/7120422/193465689-a2b8ac6d-4742-4bc2-9e5b-d82abbaca8d4.png width="500" height="500" />
+
+</p>
+
+
 # OSINT-CABOVERDE
 OSINT (Inteligência de código aberto do Inglês Open source intelligence)
 
