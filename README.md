@@ -18,5 +18,5 @@ OSINT (Inteligência de código aberto do Inglês Open source intelligence) é u
 
 ### Ceac
 O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-* <a href="https://ceac.state.gov/CEACStatTracker/Status.aspx" target="_blank">ceac</a>
-[demo](https://example.com)
+* https://ceac.state.gov/CEACStatTracker/Status.aspx
+
