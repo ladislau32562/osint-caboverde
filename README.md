@@ -21,14 +21,4 @@ O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi apro
 * https://ceac.state.gov/CEACStatTracker/Status.aspx
 
 <h2> Motores de Busca Contexto Cabo Verde<a name="busca"></a></h2>
-O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
-  O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi aprovado ou negado para EUA.
+...
