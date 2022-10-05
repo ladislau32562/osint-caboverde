@@ -24,5 +24,8 @@ O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi apro
 <h2> Motores de Busca Contexto Cabo Verde<a name="busca"></a></h2>
 
 ### Google Hacking: Documento em Arquivos
+
 * Pesquisa de arquivos PDF
-https://www.google.com/search?q=site%3A*.cv+filetype+pdf&sxsrf=ALiCzsYvaF1SOWYg0f8D5cdPlzSkflbhdw%3A1664987854737&ei=zrI9Y9LRLL2Iur4PjLu4sAM&ved=0ahUKEwjS8IuNw8n6AhU9hM4BHYwdDjYQ4dUDCA4&uact=5&oq=site%3A*.cv+filetype+pdf&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQAFgAYIoHaAFwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz
+
+`site:*.cv filetype pdf`
+¤ https://www.google.com/search?q=site%3A*.cv+filetype+pdf&sxsrf=ALiCzsYvaF1SOWYg0f8D5cdPlzSkflbhdw%3A1664987854737&ei=zrI9Y9LRLL2Iur4PjLu4sAM&ved=0ahUKEwjS8IuNw8n6AhU9hM4BHYwdDjYQ4dUDCA4&uact=5&oq=site%3A*.cv+filetype+pdf&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQAFgAYIoHaAFwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz
