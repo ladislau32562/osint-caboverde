@@ -32,3 +32,14 @@ O ceac é site oficial consular informá-lo-á se o seu pedido de visto foi apro
 **Interpretação**: procurar em todos os `sites` com domínio `.cv` onde `*` seginifica por exemplo `gov.cv`, `.cv`, `un.cv`...
 
 ¤ https://www.google.com/search?q=site%3A*.cv+filetype+pdf&sxsrf=ALiCzsYvaF1SOWYg0f8D5cdPlzSkflbhdw%3A1664987854737&ei=zrI9Y9LRLL2Iur4PjLu4sAM&ved=0ahUKEwjS8IuNw8n6AhU9hM4BHYwdDjYQ4dUDCA4&uact=5&oq=site%3A*.cv+filetype+pdf&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQAFgAYIoHaAFwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz
+
+
+### Google Hacking: Documentos em Sites do Governo
+
+* Pesquisa de arquivos PDF, Word, xls, txt, sql, ...
+
+`site:*.cv filetype pdf` 
+
+**Mais opções de filtros de pesquisas**: Google Hacking Database
+
+¤ https://www.exploit-db.com/google-hacking-database
